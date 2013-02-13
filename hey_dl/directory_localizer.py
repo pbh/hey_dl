@@ -1,5 +1,15 @@
 #!/usr/bin/env python
 
+"""
+    hey_dl.directory_localizer
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+    Utilities for working with the directory where a source file lives.
+
+    :copyright: (c) 2013 by oDesk Corporation.
+    :license: BSD, see LICENSE for more details.
+"""
+
 import os
 import inspect
 
